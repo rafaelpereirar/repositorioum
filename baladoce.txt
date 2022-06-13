@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<<
 arquivo local
 dias de hj
 dias de amanha
@@ -10,4 +10,4 @@ neste sabado
 teste4
 nesta segunda
 teste8
->>>>>>> 3914afa30683269160cb50ee0315b5e230db9d6f
+>>>>>>> 
